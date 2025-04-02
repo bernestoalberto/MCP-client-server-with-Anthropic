@@ -1,0 +1,7 @@
+mcp-client/.env
+mcp-client/build/*
+mcp-client/node_modules
+mcp-client/package-lock.json
+weather-server/package-lock.json
+weather-server/node_modules
+weather-server/build/*
