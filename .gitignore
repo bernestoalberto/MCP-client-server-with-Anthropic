@@ -5,3 +5,4 @@ mcp-client/package-lock.json
 weather-server/package-lock.json
 weather-server/node_modules
 weather-server/build/*
+github_mcp_server/.env
